@@ -27,3 +27,12 @@ Explore detailed walkthroughs on creating podcasts tailored to various themes an
 - Optimizing content selection for engaging podcasts.
 - Customizing narration style and pace.
 - Incorporating listener feedback into future episodes.
+
+## Tutorial 
+
+Step 1: Generate a podcast 
+  - [Video](https://youtu.be/jOatry2TYTo)
+  - [Colab Notebook](https://colab.research.google.com/drive/1syStcIw-_jBkIv1UrqRuZ0zxTa3auWwr?usp=sharing)
+
+Step 2: Deploy as an app [Will be added soon]
+
