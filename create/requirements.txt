@@ -1,9 +1,0 @@
-typing_extensions==4.7.1
-gradio
-feedparser
-transformers
-accelerate
-openai
-tiktoken
-pypdf
-nltk
